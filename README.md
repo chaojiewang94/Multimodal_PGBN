@@ -21,10 +21,11 @@ most important files:
 - sampler file includes the whole Gibbs samplers of mPGB.for more detail of these samplers,you can find original codes in following website: https://github.com/mingyuanzhou/GBN
 - ficker_data file includes filcker25k download from http://www.cs.toronto.edu/~nitish/multimodal/ and we have translate original data to mat file using flicker_data_split.m 
 
-Copyright (c), 2018, Chaojie Wang 
-xd_silly@163.com
 
 ==
 CONTACT==
 ==
 Contact Bo Chen <bchen@mail.xidian.edu.cn> or Chaojie Wang <xd_silly@163.com>
+
+Copyright (c), 2018, Chaojie Wang 
+xd_silly@163.com
